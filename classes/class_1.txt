@@ -1,0 +1,15 @@
+Class restaurant
+
+Attributes
+
+number_of_customers (integer)
+size (float)(square feet)
+open_for_business (boolean)
+color (string)
+
+Methods
+
+new_customer (changes number_of_customers)
+build_addition (increases size)
+turn_on_closed_sign (changes open_for_business to false)
+paint_building (changes color string)
