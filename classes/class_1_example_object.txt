@@ -1,0 +1,15 @@
+Object Chili's
+
+Attributes
+
+number_of_customers (100)
+size (2000.0)
+open_for_business (True)
+color ('red')
+
+Methods
+
+new_customer (increases number_of_customers to 101)
+build_addition (increases size by 200)
+turn_on_closed_sign (open_for_business = false)
+paint_building (changes color to 'blue')
