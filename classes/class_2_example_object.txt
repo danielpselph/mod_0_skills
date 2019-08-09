@@ -1,0 +1,15 @@
+Object Sushi Harbor
+
+Attributes
+
+number_of_employees (4)
+accept_reservations (false)
+special_of_the_week ('tuna')
+daily_revenue (3000.00)
+
+Methods
+
+new_hire (increases number_of_employees to 5)
+book_reservation (accept_reservations = true)
+add_special (add 'bass' to special_of_the_week)
+close_cash_register (calculate daily_revenue = 3200.00)
