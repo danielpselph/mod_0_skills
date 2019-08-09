@@ -1,0 +1,15 @@
+Class restaurant
+
+Attributes
+
+number_of_employees (integer)
+accept_reservations (boolean)
+special_of_the_week (string)
+daily_revenue (float)
+
+Methods
+
+new_hire (changes number_of_employees)
+book_reservation (changes accept_reservations to true)
+add_special (add item to special_of_the_week)
+close_cash_register (calculate daily_revenue)
