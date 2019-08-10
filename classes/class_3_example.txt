@@ -1,0 +1,15 @@
+Object Applebees Kitchen
+
+Attributes
+
+prep_complete (true)
+steak_inventory (52)
+head_chef ('Daniel')
+amount_of_flour (100.0)
+
+Methods
+
+completed_prep (prep_complete = true)
+order_steak (increases steak_inventory to 70 )
+add_new_head_chef (changes head_chef to 'Daniel')
+weigh_flour (reduces amount_of_flour to 75.0)

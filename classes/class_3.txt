@@ -1,0 +1,15 @@
+Class Restaurant Kitchen
+
+Attributes
+
+prep_complete (boolean)
+steak_inventory (integer)
+head_chef (string)
+amount_of_flour (float)(lbs)
+
+Methods
+
+completed_prep (changes prep_complete to true)
+order_steak (increases steak_inventory)
+add_new_head_chef (adds new name to head_chef)
+weigh_flour (calculate amount_of_flour)
